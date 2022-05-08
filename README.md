@@ -9,7 +9,7 @@ As a new data analyst of Pyber, a python-based ride-sharing app company, my firs
 ## Results
 - After cleaning the raw data with data sets merge and groupby() functions, I created a summary report with five elements for three city types, based on the CSV data provided. The city types were rural, suburban, and urban. The five elements for these three types were total riders, total drivers, total fares, average fare per ride, and average fare per driver. We focused on the first 17 weeks of 2019, from January 1st to April 28th.
 
-![results](analysis/Deliverable_1_result)
+![results](analysis/Deliverable_1_result.png)
 - From this summary, we found out that Rural cities had the least total rides while the urban area had the most rides. This meant that the ride-sharing happened more where the population density was higher.
 - Accordingly, a higher need for rides led to a higher number of total drivers and fares. Thus, the urban city had the highest total drivers and fares as well, the suburban the next, and the rural cities the least.
 - On the contrary, rural areas had the highest cost, as the "average fare per ride" and "Average Fare per Driver" ranked highest among the three.
