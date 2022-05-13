@@ -12,7 +12,7 @@ As a new data analyst of Pyber, a python-based ride-sharing app company, my firs
 ![results](analysis/Deliverable_1_result.png)
 - From this summary, we found out that Rural cities had the least total rides while the urban area had the most rides. This meant that the ride-sharing happened more where the population density was higher.
 - Accordingly, a higher need for rides led to a higher number of total drivers and fares. Thus, the urban city had the highest total drivers and fares as well, the suburban the next, and the rural cities the least.
-- On the contrary, rural areas had the highest cost, as the "average fare per ride" and "Average Fare per Driver" ranked highest among the three.
+- On the contrary, rural areas had the highest cost per ride, as the "average fare per ride" and "Average Fare per Driver" ranked highest among the three city types.
 
 ![charts](analysis/PyBer_fare_summary.png)
 - All three city types' total shared riding fares reached their peaks by the end of February 2019. But the urban cities had a primarily steady increasing trend before March, while suburban and rural cities had some up and downs before they reached their ride peak.
@@ -21,5 +21,5 @@ As a new data analyst of Pyber, a python-based ride-sharing app company, my firs
 ## Summary
 1. Although the urban cities had more ride requests and lower average fare per driver, there were more drivers available than needed. More investment is needed for user awareness of using ride-sharing apps in urban cities.
 2. Likewise, more ads and benefits are needed to recruit enough drivers to meet the ride-sharing demand in rural and Suburban cities. This will also help to reduce the average cost per ride and per driver.
-3. Campaign at the right time is also very important. Pyber should see why some of the months have lower rides. Is it all about seasonality? Any other reasons included? Pyber can do an AB test to see if they should invest more in quieter seasons to increase the rides, or campaign at good seasons to push the peak even higher; whichever provides a higher ROI (return of investment) should be more effective.
+3. Campaign promotion at the right time is also very important. Pyber should see why some of the months have lower rides. Is it all about seasonality? Any other reasons included? Pyber can do an AB test to see if they should invest more in quieter seasons to increase the rides, or promoting their business more at good seasons to push the peak even higher; whichever provides a higher ROI (return of investment) should be the more effective method.
 4. Customers would want a lower fee per ride, but drivers would like to earn more. How to balance this and provide the customer with affordable services while let drivers earn more will determine the market share of Pyber.
